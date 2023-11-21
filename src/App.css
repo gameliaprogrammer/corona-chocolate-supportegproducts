@@ -1,0 +1,31 @@
+ .App{
+      background: linear-gradient(to right, white 53%, #FFDEDE);
+}  
+
+/* 
+.cursor{
+  position: fixed;
+  width: 50px;
+  height: 50px;
+  border: 1px solid red;
+  border-radius: 50%;
+  left: 0;
+  top: 0;
+  pointer-events: none;
+  transform: translate(-50%, -50%);
+  transition: .1s;
+}
+
+.cursor2{
+  position: fixed;
+  width: 8px;
+  height: 8px;
+  border: 1px solid red;
+  background-color: red;
+  border-radius: 50%;
+  left: 0;
+  top: 0;
+  pointer-events: none;
+  transform: translate(-50%, -50%) .5s;
+  transition: .25s;
+} */

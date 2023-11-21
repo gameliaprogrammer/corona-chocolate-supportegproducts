@@ -1,0 +1,33 @@
+ul li {
+    margin: 0px 10px;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 16px;
+}
+
+.menu-btn{
+    clip-path: polygon(50% 2%, 100% 8%, 100% 100%, 0 100%, 0 8%);
+    width: 181px;
+    height: 60px;
+    background-color: rgba(3, 147, 17, 0.7);
+
+    border-radius: 10px;
+    text-align: center;
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+/* 
+    background-image: url(../Assets/menu-btn.jpg);
+    background-size: cover; */
+}
+
+.menu-btn p{
+    line-height: 18px;
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+    font-weight: 800;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
